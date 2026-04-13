@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+logs/
+data/
+*.log
+.DS_Store
+node_modules/
+.vercel/
